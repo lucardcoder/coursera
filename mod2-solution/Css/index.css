@@ -1,0 +1,14 @@
+body {
+    background-color: gray;
+  }
+  
+  #box {
+    background-color: blue;
+  }
+  #content {
+    background-color: #90EE90; 
+  }
+  
+  h1 {
+    margin-bottom: 30px;
+  }
